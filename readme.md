@@ -13,3 +13,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - HTML
 - CSS
 - JS
+
+## Aficiones
+
+- Leer
+- Pasear
+- Jugar
