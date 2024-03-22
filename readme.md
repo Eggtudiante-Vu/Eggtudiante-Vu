@@ -8,6 +8,18 @@
 
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
+## Tecnologías
+
+- HTML
+- CSS
+- JS
+
 ## Habilidades
 
 - Resolución de problemas: como desarrollador, me encanta resolver problemas complejos.
+
+## Aficiones
+
+- Leer
+- Pasear
+- Jugar
