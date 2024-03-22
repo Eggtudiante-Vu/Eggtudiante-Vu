@@ -23,3 +23,8 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - Leer
 - Pasear
 - Jugar
+
+## Idiomas
+
+- Inglés
+- Español
