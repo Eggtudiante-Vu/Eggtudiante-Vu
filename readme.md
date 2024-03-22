@@ -14,6 +14,10 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - CSS
 - JS
 
+## Habilidades
+
+- Resolución de problemas: como desarrollador, me encanta resolver problemas complejos.
+
 ## Aficiones
 
 - Leer
